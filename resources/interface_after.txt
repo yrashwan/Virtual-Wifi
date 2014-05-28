@@ -1,0 +1,9 @@
+
+Admin State    State          Type             Interface Name
+-------------------------------------------------------------------------
+Enabled        Disconnected   Dedicated        Local Area Connection 2
+Enabled        Disconnected   Dedicated        Local Area Connection
+Enabled        Disconnected   Dedicated        Wireless Network Connection 2
+Enabled        Connected      Dedicated        Wireless Network Connection
+Enabled        Connected      Dedicated        Wireless Network Connection 3
+
